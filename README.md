@@ -8,4 +8,4 @@ Sono presenti 3 tipi di processo:
 2. SO_NUM_G processi giocatore,
 3. SO_NUM_P processi pedina per ogni giocatore
 
-Descrizione: [progettoSO_draft.pdf](https://github.com/MrSecret35/Sistemi_Operativi/progettoSO_draft.pdf)
+Descrizione: [progettoSO_draft.pdf](https://github.com/MrSecret35/Sistemi_Operativi/blob/main/progettoSO_draft.pdf)
